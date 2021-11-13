@@ -1,0 +1,6 @@
+package: login_neon
+version: 1.0.0
+author: 'Friends Of REDAXO'
+supportpage: 'https://github.com/FriendsOfREDAXO/login_neon'
+requires:
+    redaxo: '>=5.13.0-dev'
